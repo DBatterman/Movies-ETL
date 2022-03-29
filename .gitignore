@@ -33,6 +33,11 @@ MANIFEST
 *.manifest
 *.spec
 
+.DS_Store
+.env
+config.py
+config*
+Mywork
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -127,3 +132,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
+.env
+config.py
+config*
+Mywork
